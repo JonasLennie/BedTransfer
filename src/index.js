@@ -23,4 +23,6 @@ root.render(
   </React.StrictMode>
 );
 
+export default root;
+
 reportWebVitals();
