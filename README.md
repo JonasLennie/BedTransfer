@@ -1,7 +1,7 @@
 # BedTransfer
 This is a project to allow hospital staff to more efficiently manage their available beds, which would replace a dated phone system.
 
-Unfortunately, this project was unsuccessful, but now the prototype lives here. You can go have a look at the deployed version **[HERE]**(https://bedtransfer-e9489.web.app/).
+Unfortunately, this project was unsuccessful, but now the prototype lives here. You can go have a look at the deployed version **[HERE](https://bedtransfer-e9489.web.app/)**.
 
 After consulting with medical specialists, we developed a plan for a platform, which would consist of three components
 - Clinician management page - Doctors needing beds for patients can make new requests to ward managers.
