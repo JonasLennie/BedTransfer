@@ -1,0 +1,164 @@
+{
+    "records": [
+        {
+            "made_at": "2021-04-23T18:25:43.511Z",
+            "mrn": 21232378047329,
+            "wardFrom": "Ward 1",
+            "wardTo": "Ward 2",
+            "state": "waiting",
+            "requester": {
+                "id": 124,
+                "name": "Ward Man"
+            },
+            "notes": [
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man"
+                    },
+                    "message": "Can you move this patient?",
+                    "read": true,
+                    "timestamp": "2022-05-31T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 125,
+                        "name": "Porter"
+                    },
+                    "message": "Sure Thing, Mate",
+                    "read": false,
+                    "timestamp": "2022-04-24T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man"
+                    },
+                    "message": "That's good to hear",
+                    "read": false,
+                    "timestamp": "2021-04-24T22:25:43.511Z"
+                }
+            ]
+        },
+        {
+            "made_at": "2021-04-23T18:25:43.511Z",
+            "mrn": 21232378047329,
+            "wardFrom": "Ward 3",
+            "wardTo": "Ward 1",
+            "state": "active",
+            "requester": {
+                "id": 124,
+                "name": "Ward Man 2"
+            },
+            "notes": [
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man 2"
+                    },
+                    "message": "Can you move this patient?",
+                    "read": true,
+                    "timestamp": "2022-05-31T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 125,
+                        "name": "Porter"
+                    },
+                    "message": "Sure Thing, Mate",
+                    "read": false,
+                    "timestamp": "2022-04-24T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man 2"
+                    },
+                    "message": "That's good to hear",
+                    "read": false,
+                    "timestamp": "2021-04-24T22:25:43.511Z"
+                }
+            ]
+        },
+        {
+            "made_at": "2021-04-23T18:25:43.511Z",
+            "mrn": 21232378047329,
+            "wardFrom": "Ward 3",
+            "wardTo": "Ward 1",
+            "state": "complete",
+            "requester": {
+                "id": 124,
+                "name": "Ward Man 3"
+            },
+            "notes": [
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man 3"
+                    },
+                    "message": "Can you move this patient?",
+                    "read": true,
+                    "timestamp": "2022-05-31T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 125,
+                        "name": "Porter"
+                    },
+                    "message": "Sure Thing, Mate",
+                    "read": false,
+                    "timestamp": "2022-04-24T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man 3"
+                    },
+                    "message": "That's good to hear",
+                    "read": false,
+                    "timestamp": "2021-04-24T22:25:43.511Z"
+                }
+            ]
+        },
+        {
+            "made_at": "2021-04-23T18:25:43.511Z",
+            "mrn": 21232378047329,
+            "wardFrom": "Ward 3",
+            "wardTo": "Ward 1",
+            "state": "canceled",
+            "requester": {
+                "id": 124,
+                "name": "Ward Man 2"
+            },
+            "notes": [
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man"
+                    },
+                    "message": "Can you move this patient?",
+                    "read": true,
+                    "timestamp": "2022-05-31T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 125,
+                        "name": "Porter"
+                    },
+                    "message": "Sure Thing, Mate",
+                    "read": false,
+                    "timestamp": "2022-04-24T22:25:43.511Z"
+                },
+                {
+                    "sender": {
+                        "id": 124,
+                        "name": "Ward Man"
+                    },
+                    "message": "That's good to hear",
+                    "read": false,
+                    "timestamp": "2021-04-24T22:25:43.511Z"
+                }
+            ]
+        }
+    ]
+}
